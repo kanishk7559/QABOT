@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kanishk7559/QABOT">
-    <img src="https://i.ibb.co/MBLCHKQ/ss1.jpg" alt="Logo" width="800" height="350">
+    <img src="https://i.ibb.co/MBLCHKQ/ss1.jpg" alt="Logo" width="600" height="275">
   </a>
 
   <p align="center">
