@@ -39,7 +39,7 @@ You can download the pretrained bert model by <a href="https://drive.google.com/
 <br>
 
 ## Invite link
-<a href="https://discord.com/api/oauth2/authorize?client_id=903339124491182080&permissions=0&scope=bot">
+<a href="https://discord.com/api/oauth2/authorize?client_id=903942070102790155&permissions=0&scope=bot">
 Click here to invite QABOT to your discord server
 </a>
 
